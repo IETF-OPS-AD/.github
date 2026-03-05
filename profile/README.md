@@ -22,5 +22,17 @@
 - [ADs Sync](https://github.com/IETF-OPS-AD/ads-sync)
 - [Liaisons](https://github.com/IETF-OPS-AD/Liaisons)
     
+   
+</td>
+
+<td valign="top">
+   
+
+**Topics**
+    
+- [DNS Consultation Task](https://github.com/IETF-OPS-AD/DNS-Structure-Consultatation)
+- [AINETOPS](https://github.com/IETF-OPS-AD/AINETOPS)
+    
+   
 </td></tr></tbody></table>
 </div>
