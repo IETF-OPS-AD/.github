@@ -2,7 +2,7 @@
     
 # IETF OPS Area
 
-[OPS Working Groups](https://datatracker.ietf.org/group/ops/about/) | [Future/Past Meetings](https://datatracker.ietf.org/wg/opsarea/meetings/) | [Active Documents](https://datatracker.ietf.org/group/opsarea/documents/)
+[OPSAREA Open Meeting](https://datatracker.ietf.org/group/opsarea/about/)   | [OPS Working Groups](https://datatracker.ietf.org/group/ops/about/) | [Future/Past Meetings](https://datatracker.ietf.org/wg/opsarea/meetings/) | [Active Documents](https://datatracker.ietf.org/group/opsarea/documents/)
 </div>
 
 <div align="center">
