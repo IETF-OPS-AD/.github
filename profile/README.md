@@ -34,6 +34,7 @@
 - [AINETOPS](https://github.com/IETF-OPS-AD/AINETOPS)
 - [foo-over-QUIC Operational Motivations & Challenges](https://github.com/IETF-OPS-AD/foo-over-QUIC-Operational-Considerations)
 - [Technology Deep Dive (TDD)](https://github.com/IETF-TDD)
+- [RPKI Doctors](https://github.com/IETF-OPS-AD/RPKI-Review-Team)
     
    
 </td></tr></tbody></table>
