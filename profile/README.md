@@ -20,6 +20,7 @@
     
 - [Meetings](https://github.com/IETF-OPS-AD/OPSAREA-meetings)
 - [ADs Sync](https://github.com/IETF-OPS-AD/ads-sync)
+- [WG Charter](https://github.com/IETF-OPS-AD/Charters)
 - [Liaisons](https://github.com/IETF-OPS-AD/Liaisons)
     
    
